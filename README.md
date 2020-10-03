@@ -1,3 +1,3 @@
 # crypto_currency_prediction
 
-This project is demonstration for prediction in crypto currency.
+Crypto currency prediction helps in predicting changes that it suffer after a certain period of time.
